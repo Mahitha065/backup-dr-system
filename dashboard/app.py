@@ -13,7 +13,6 @@ st.subheader("Backup History")
 
 for row in rows:
     st.write(row)
-
 st.metric(
     label="Total Backups",
     value=len(rows)
