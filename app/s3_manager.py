@@ -1,1 +1,0 @@
-print("AWS S3 integration coming next step.")
